@@ -37,7 +37,7 @@ To get started with CxReports, follow these steps:
 
 - **Setup Instructions**: Refer to our [setup instructions](https://docs.cx-reports.com/getting-started/docker/) in the documentation for detailed guidance on prerequisites, installation, and running the application using Docker.
 - **Invoice Tutorial**: Follow the [Invoice Tutorial](https://docs.cx-reports.com/getting-started/invoice/) for a step-by-step guide on designing and generating an invoice report. This tutorial will help you understand the core features and functionalities of CxReports, enabling you to create customized and dynamic reports effortlessly.
-- **Templates**: Check out the various report templates [available on our website](https://www.cx-reports.com) to kickstart your report designs. These templates provide a foundation that you can customize to meet your specific reporting needs.
+- **Templates**: Check out the various report templates [available on our website](https://www.cx-reports.com/templates) to kickstart your report designs. These templates provide a foundation that you can customize to meet your specific reporting needs.
 - **API Integration**: Learn how to integrate CxReports with your existing systems using our APIs. The [API Documentation](https://docs.cx-reports.com/getting-started/api/) provides comprehensive information on connecting data sources, embedding reports, and automating report generation and delivery through API calls.
 
 ## Support
