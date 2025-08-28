@@ -10,27 +10,6 @@ Useful links:
 - **Consumer Demo App**: https://consumer-demo.cx-reports.com
 - **Docker Image**: https://hub.docker.com/r/codaxy/cx-reports
 
-## About CxReports
-
-CxReports is a self-hosted software solution designed for generating PDF reports automatically. It's ideal for creating various reports such as invoices, balance sheets, inventory reports, sales reports, investment valuation reports, timesheets, salary slips, etc.
-
-Key features include:
-
-- **WYSIWYG Editor**: Design reports with ease using our intuitive editor.
-- **Rich Component Set**: Include tables, charts, images, and rich text in your reports.
-- **Page Management**: Handle page breaking, numbering, and dynamic table of contents.
-- **Templates**: Use page templates for consistent headers and footers.
-- **Styling**: Style reports to follow your corporate branding guidelines.
-- **Data Integration**: Connect to APIs and SQL databases for dynamic data.
-- **Multilingual**: Generate reports in multiple languages.
-- **Parameterized Reports**: Customize reports with parameters.
-- **Scheduling**: Automate report delivery via email on a set schedule.
-- **SSO Integration**: Securely integrate with single sign-on.
-- **Embeddable**: Embed reports in other applications using iframes or export via API.
-- **Workspaces**: Separate reports across departments or environments.
-- **Security**: Fine-grained roles and permissions for user access.
-- **Docker**: Easy setup with Docker.
-
 ## Getting Started
 
 To get started with CxReports, follow these steps:
